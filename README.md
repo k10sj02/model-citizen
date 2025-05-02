@@ -68,6 +68,6 @@
 * **BI Tool**: Metabase, Tableau, Looker Studio, etc.
 
 ## Courses
-[Analytics Engineering](https://www.udemy.com/course/analytics-engineering-bootcamp/learn/lecture/29718036?start=0#overview)
-DataCamp
+1. [Analytics Engineering](https://www.udemy.com/course/analytics-engineering-bootcamp/learn/lecture/29718036?start=0#overview)
+2. DataCamp
 
