@@ -69,5 +69,6 @@
 
 ## Courses
 1. [Analytics Engineering](https://www.udemy.com/course/analytics-engineering-bootcamp/learn/lecture/29718036?start=0#overview)
-2. DataCamp
+2. [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
+3. DataCamp
 
